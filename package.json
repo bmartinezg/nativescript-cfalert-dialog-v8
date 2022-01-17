@@ -19,7 +19,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/nativescript-cfalert-dialog/-/nativescript-cfalert-dialog-1.0.16.tgz",
+  "_resolved": "https://github.com/bmartinezg/nativescript-cfalert-dialog-v8",
   "_shasum": "b6db01209f12f43d2cd72f9e89b8d7d167199947",
   "_spec": "nativescript-cfalert-dialog",
   "_where": "/Users/equipoux/Documents/Indra/territorios/Turismo-App",
@@ -85,7 +85,7 @@
     }
   },
   "repository": {
-    "url": "git+https://github.com/shiv19/nativescript-cfalert-dialog.git",
+    "url": "git+https://github.com/bmartinezg/nativescript-cfalert-dialog-v8.git",
     "type": "git"
   },
   "scripts": {
