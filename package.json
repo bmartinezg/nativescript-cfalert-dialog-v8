@@ -24,26 +24,13 @@
   "_spec": "nativescript-cfalert-dialog",
   "_where": "/Users/equipoux/Documents/Indra/territorios/Turismo-App",
   "author": {
-    "name": "MultiShiv19",
-    "email": "sp@shiv19.com",
-    "url": "https://shiv19.com"
+    "name": "Bruno Martínez"
   },
   "bootstrapper": "nativescript-plugin-seed",
   "bugs": {
     "url": "https://github.com/shiv19/nativescript-cfalert-dialog/issues"
   },
   "bundleDependencies": false,
-  "contributors": [
-    {
-      "name": "Dave Coffin",
-      "email": "dave@davecoffin.com",
-      "url": "https://github.com/davecoffin"
-    },
-    {
-      "name": "Jeremy PELE",
-      "url": "https://github.com/jeremypele"
-    }
-  ],
   "deprecated": false,
   "description": "CFAlert Dialog wrapper for NativeScript",
   "devDependencies": {
@@ -54,7 +41,6 @@
     "tslint": "^5.0.0",
     "typescript": "~2.3.0"
   },
-  "homepage": "https://github.com/shiv19/nativescript-cfalert-dialog",
   "keywords": [
     "NativeScript",
     "JavaScript",
